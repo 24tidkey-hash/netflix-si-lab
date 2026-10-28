@@ -1,0 +1,51 @@
+show_id,type,title,director,country,date_added,release_year,rating,duration,duration_min,listed_in,primary_genre,imdb_score,total_votes,content_budget_millions
+s1,Movie,Roma,Alfonso Cuarón,Mexico,2018-12-14,2018,R,135 min,135,"Dramas, International Movies",Drama,7.7,165000,15
+s2,TV Show,Stranger Things,The Duffer Brothers,United States,2016-07-15,2016,TV-14,4 Seasons,2160,"Sci-Fi & Fantasy, TV Dramas, Horror",Sci-Fi,8.7,820000,270
+s3,Movie,The Irishman,Martin Scorsese,United States,2019-11-27,2019,R,209 min,209,"Crime, Dramas",Crime,7.8,410000,159
+s4,TV Show,The Crown,Peter Morgan,United Kingdom,2016-11-04,2016,TV-MA,6 Seasons,3600,"Historical, TV Dramas",Drama,8.6,245000,260
+s5,TV Show,Squid Game,Hwang Dong-hyuk,South Korea,2021-09-17,2021,TV-MA,1 Season,495,"International TV Shows, TV Thrillers, Action",Thriller,8,530000,21.4
+s6,Movie,Extraction,Sam Hargrave,United States,2020-04-24,2020,R,116 min,116,Action & Adventure,Action,6.8,230000,65
+s7,Movie,Glass Onion: A Knives Out Mystery,Rian Johnson,United States,2022-12-23,2022,PG-13,139 min,139,"Comedies, Dramas, Mysteries",Mystery,7.1,395000,40
+s8,TV Show,The Queen's Gambit,Scott Frank,United States,2020-10-23,2020,TV-MA,1 Season,393,TV Dramas,Drama,8.5,490000,35
+s9,Movie,Guillermo del Toro's Pinocchio,Guillermo del Toro,United States,2022-12-09,2022,PG,117 min,117,"Animation, Children & Family Movies",Animation,7.6,115000,35
+s10,TV Show,Wednesday,Tim Burton,United States,2022-11-23,2022,TV-14,1 Season,400,"TV Comedies, TV Fantasy",Fantasy,8.1,360000,38
+s11,Movie,Bird Box,Susanne Bier,United States,2018-12-21,2018,R,124 min,124,"Dramas, Sci-Fi & Fantasy, Thrillers",Thriller,6.6,355000,19.8
+s12,TV Show,Money Heist (La Casa de Papel),Álex Pina,Spain,2017-12-20,2017,TV-MA,5 Seasons,2050,"Crime TV Shows, International TV Shows, TV Thrillers",Crime,8.2,510000,48
+s13,Movie,Don't Look Up,Adam McKay,United States,2021-12-24,2021,R,138 min,138,"Comedies, Dramas, Sci-Fi & Fantasy",Comedy,7.2,565000,75
+s14,TV Show,Dark,Baran bo Odar,Germany,2017-12-01,2017,TV-MA,3 Seasons,1560,"Crime TV Shows, International TV Shows, TV Sci-Fi",Sci-Fi,8.7,430000,24
+s15,Movie,Marriage Story,Noah Baumbach,United States,2019-12-06,2019,R,137 min,137,"Comedies, Dramas, Independent Movies",Drama,7.9,340000,18
+s16,TV Show,Black Mirror,Charlie Brooker,United Kingdom,2016-10-21,2016,TV-MA,6 Seasons,1620,"British TV Shows, TV Sci-Fi & Fantasy, TV Thrillers",Sci-Fi,8.7,615000,60
+s17,Movie,Red Notice,Rawson Marshall Thurber,United States,2021-11-12,2021,PG-13,118 min,118,"Action & Adventure, Comedies",Action,6.3,310000,200
+s18,TV Show,Narcos,Chris Brancato,United States,2015-08-28,2015,TV-MA,3 Seasons,1500,"Crime TV Shows, TV Action & Adventure, TV Dramas",Crime,8.8,450000,50
+s19,Movie,"Tick, Tick... Boom!",Lin-Manuel Miranda,United States,2021-11-19,2021,PG-13,115 min,115,"Dramas, Music & Musicals",Musical,7.5,135000,22
+s20,TV Show,BoJack Horseman,Raphael Bob-Waksberg,United States,2014-08-22,2014,TV-MA,6 Seasons,1950,"TV Comedies, Animation",Comedy,8.8,180000,36
+s21,Movie,Klaus,Sergio Pablos,Spain,2019-11-15,2019,PG,97 min,97,"Children & Family Movies, Comedies, Animation",Animation,8.2,185000,40
+s22,TV Show,Bridgerton,Chris Van Dusen,United States,2020-12-25,2020,TV-MA,3 Seasons,1440,"Romantic TV Shows, TV Dramas",Romance,7.4,190000,84
+s23,Movie,All Quiet on the Western Front,Edward Berger,Germany,2022-10-28,2022,R,148 min,148,"Action & Adventure, Dramas, International Movies",War,7.8,240000,20
+s24,TV Show,Cyberpunk: Edgerunners,Hiroyuki Imaishi,Japan,2022-09-13,2022,TV-MA,1 Season,240,"Anime Series, Action Anime, Sci-Fi Anime",Animation,8.3,110000,12
+s25,Movie,The Adam Project,Shawn Levy,United States,2022-03-11,2022,PG-13,106 min,106,"Action & Adventure, Comedies, Sci-Fi",Sci-Fi,6.7,240000,116
+s26,TV Show,Heartstopper,Euros Lyn,United Kingdom,2022-04-22,2022,TV-14,2 Seasons,480,"Romantic TV Shows, Teen TV Shows",Romance,8.6,75000,14
+s27,Movie,Enola Holmes,Harry Bradbeer,United Kingdom,2020-09-23,2020,PG-13,123 min,123,"Action & Adventure, Children & Family Movies",Mystery,6.6,195000,21
+s28,TV Show,Ozark,Jason Bateman,United States,2017-07-21,2017,TV-MA,4 Seasons,2640,"Crime TV Shows, TV Dramas, TV Thrillers",Crime,8.5,350000,80
+s29,Movie,Society of the Snow,J.A. Bayona,Spain,2024-01-04,2023,TV-MA,144 min,144,"Adventure, Dramas, International Movies",Adventure,7.8,140000,65
+s30,TV Show,Mindhunter,David Fincher,United States,2017-10-13,2017,TV-MA,2 Seasons,1140,"Crime TV Shows, TV Dramas, TV Thrillers",Crime,8.6,320000,60
+s31,Movie,The Gray Man,Anthony and Joe Russo,United States,2022-07-22,2022,PG-13,129 min,129,"Action & Adventure, Thrillers",Action,6.5,245000,200
+s32,TV Show,Arcane,Christian Linke,United States,2021-11-06,2021,TV-14,2 Seasons,720,"Action Anime, Sci-Fi Anime, Fantasy",Animation,9,275000,110
+s33,Movie,Cocaine Bear,Elizabeth Banks,United States,2023-08-15,2023,R,95 min,95,"Comedies, Thrillers",Comedy,5.9,115000,35
+s34,TV Show,Better Call Saul,Vince Gilligan,United States,2015-02-09,2015,TV-MA,6 Seasons,3150,"Crime TV Shows, TV Dramas",Crime,9,630000,120
+s35,Movie,Leave the World Behind,Sam Esmail,United States,2023-12-08,2023,R,141 min,141,"Dramas, Sci-Fi & Fantasy, Thrillers",Thriller,6.5,190000,55
+s36,TV Show,Peaky Blinders,Steven Knight,United Kingdom,2014-09-30,2013,TV-MA,6 Seasons,2160,"British TV Shows, Crime TV Shows, TV Dramas",Crime,8.8,620000,45
+s37,Movie,The Trial of the Chicago 7,Aaron Sorkin,United States,2020-10-16,2020,R,130 min,130,"Dramas, Historical",Drama,7.7,185000,35
+s38,TV Show,Cobra Kai,Josh Heald,United States,2020-08-28,2018,TV-14,6 Seasons,1950,"TV Action & Adventure, TV Comedies, TV Dramas",Action,8.5,205000,55
+s39,Movie,Nimona,"Nick Bruno, Troy Quane",United States,2023-06-30,2023,PG,102 min,102,"Action & Adventure, Comedies, Animation",Animation,7.5,78000,40
+s40,TV Show,The Witcher,Lauren Schmidt Hissrich,United States,2019-12-20,2019,TV-MA,3 Seasons,1440,"TV Action & Adventure, TV Fantasy, TV Sci-Fi",Fantasy,8,560000,170
+s41,Movie,The Pale Blue Eye,Scott Cooper,United States,2023-01-06,2022,R,130 min,130,"Crime, Dramas, Mysteries, Thrillers",Mystery,6.6,110000,72
+s42,TV Show,Lupin,George Kay,France,2021-01-08,2021,TV-MA,3 Seasons,810,"Crime TV Shows, International TV Shows, TV Dramas",Crime,7.5,145000,32
+s43,Movie,Dune: Part One,Denis Villeneuve,United States,2023-10-01,2021,PG-13,155 min,155,"Action & Adventure, Sci-Fi",Sci-Fi,8,750000,165
+s44,TV Show,Succession (Syndicated),Jesse Armstrong,United States,2022-05-10,2018,TV-MA,4 Seasons,2340,TV Dramas,Drama,8.9,270000,110
+s45,Movie,The Wonderful Story of Henry Sugar,Wes Anderson,United States,2023-09-27,2023,PG,39 min,39,"Comedies, Dramas",Comedy,7.4,105000,15
+s46,TV Show,Beef,Lee Sung Jin,United States,2023-04-06,2023,TV-MA,1 Season,340,"TV Comedies, TV Dramas",Comedy,8,145000,28
+s47,Movie,Spenser Confidential,Peter Berg,United States,2020-03-06,2020,R,111 min,111,"Action & Adventure, Comedies",Action,6.2,95000,62
+s48,TV Show,One Piece (Live Action),Matt Owens,United States,2023-08-31,2023,TV-14,1 Season,440,"Action & Adventure, Fantasy",Action,8.4,180000,138
+s49,Movie,The Killer,David Fincher,United States,2023-11-10,2023,R,118 min,118,"Action & Adventure, Crime, Dramas, Thrillers",Thriller,6.8,185000,50
+s50,TV Show,Sex Education,Laurie Nunn,United Kingdom,2019-01-11,2019,TV-MA,4 Seasons,1600,"British TV Shows, TV Comedies, TV Dramas",Comedy,8.3,325000,44
